@@ -103,13 +103,13 @@ body {
 .nav-item span{
 	cursor: pointer;
 }
-.nav-pills .nav-link.active {
+.nav-pills .nav-link.active-tag {
 	color: black;
 	background-color: #E5975F;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
-	color: #000
+	color: #000;
 }
 .item-column {
 	position: relative;
